@@ -1,2 +1,2 @@
-# taqtile-sdk-wp
-Taqtile TQ1 Windows Phone SDK Public resources
+# Taqtile SDK Windows Phone
+This repository is used to keep the docs files used for ReadTheDocs documentation. SDK files can be found on our nuget repository on MyGet
